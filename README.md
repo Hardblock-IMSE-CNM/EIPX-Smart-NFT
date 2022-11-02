@@ -12,6 +12,8 @@ requires: 165, 721
 ---
  
  K<sub>OD</sub>
+ K[Element: sub](OD)
+ K[Element: sub]OD
  K__OD__
  K_OD_
  K~~OD~~
